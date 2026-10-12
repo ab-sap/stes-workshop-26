@@ -1,0 +1,4 @@
+# Printable handouts embed workspace passwords — keep them out of git.
+# Generate locally from the handout template; share via Slack/print only.
+handouts.html
+handout_group_*.pdf
